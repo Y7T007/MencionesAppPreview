@@ -31,7 +31,6 @@ This repository showcases an **e-learning platform** designed and developed for 
 Here are some preview screens of the application:  
 
 ![Home](./Android%20Large%20-%2012.png)
-![Home](./Android%20Large%20-%201.png)
 ![Home](./Android%20Large%20-%202.png)
 ![Home](./Android%20Large%20-%203.png)
 ![Home](./Android%20Large%20-%204.png)
